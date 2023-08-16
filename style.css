@@ -124,10 +124,10 @@ margin-top: 10px;
     
 }
 .card-1{
-    background-image: url(../Cocacola/4.1imglft.webp);
+    background-image: url(./4.1imglft.webp);
 }
 .card-2{
-    background-image: url(../Cocacola/4.1rit.webp);
+    background-image: url(./4.1rit.webp);
 }
 .learn{
     font-size: 20px;
